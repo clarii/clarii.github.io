@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Soy de un pueblo llamado Posta San Martín Nº 2 (Sí, dos. Sí, existe San Martín 1). Mis padres son Daniel y Diana. Mis hermanos Mariana y Julián. Nuestro perro se llama Chamamé. Estudié Ingeniería en Sistemas en la Universidad Tecnológica Nacional, Facultad Regional Resistencia. Me gusta la pizza, la música, los deportes, los libros y la fotografía. No en ese orden necesariamente.
