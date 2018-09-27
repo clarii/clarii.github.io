@@ -14,6 +14,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://clarisaromero.com" # the base hostname & protocol for your site
 twitter_username: risaclaa
 github_username:  clarii
+instagram_username: risacla
+linkedin_link: https://www.linkedin.com/in/clarisa-romero-ab817057
+facebook_link: https://www.facebook.com/clari.010
 
 # Build settings
 markdown: kramdown
